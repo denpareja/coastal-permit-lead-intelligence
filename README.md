@@ -124,7 +124,9 @@ This enables a shift from **reactive lead discovery → proactive opportunity id
 ```bash
 python src/portfolio_pipeline.py
 
-Project Structure
+## Project Structure
+
+```text
 reef_arches_synthetic_portfolio/
 │
 ├── data/
@@ -135,41 +137,49 @@ reef_arches_synthetic_portfolio/
 │   └── portfolio_pipeline.py
 ├── requirements.txt
 └── README.md
-Disclaimer
 
-This repository is a portfolio-safe demonstration based on a real-world consulting use case.
+---
 
-It does NOT include:
+## Disclaimer
 
-Client data
-Proprietary filters
-Production workflows
-Real permit records
-Paid consulting methodology
+This repository is a **portfolio-safe demonstration** based on a real-world consulting use case.
 
-All data is synthetic and generated for demonstration purposes only.
+It does **NOT** include:
 
-This project is intended to showcase analytical approach and problem-solving, not to replicate any client deliverable.
+- Client data  
+- Proprietary filters  
+- Production workflows  
+- Real permit records  
+- Paid consulting methodology  
 
-Consulting Relevance
+All data is **synthetic and generated for demonstration purposes only**.
+
+This project is intended to showcase **analytical approach and problem-solving**, not to replicate any client deliverable.
+
+---
+
+## Consulting Relevance
 
 This project reflects work delivered in:
 
-Lead intelligence systems
-Business development analytics
-Market opportunity identification
-Operational data pipelines
-Author
+- Lead intelligence systems  
+- Business development analytics  
+- Market opportunity identification  
+- Operational data pipelines  
 
-Denisse Pareja
-Data Analyst | Healthcare & Fintech Analytics | Business Intelligence
+---
 
-I help organizations transform data into actionable business decisions, with a focus on:
+## Author
 
-Revenue optimization
-Lead intelligence
-Operational analytics
-Predictive frameworks
+**Denisse Pareja**  
+Data Analyst | Healthcare & Fintech Analytics | Business Intelligence  
 
-🔗 LinkedIn: https://www.linkedin.com/in/denissepareja/
+I help organizations transform data into **actionable business decisions**, with a focus on:
+
+- Revenue optimization  
+- Lead intelligence  
+- Operational analytics  
+- Predictive frameworks  
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/denissepareja/  
 🔗 GitHub: https://github.com/denpareja/coastal-permit-lead-intelligence.git
